@@ -259,7 +259,7 @@ pytest -v tests/
 
 ## 🧾 Changelog
 
-**v1.0.0 — 2025-10-17**
+**v0.1 — 2025-10-17**
 - Added full RTSP command stack
 - Sync + Async transport support
 - Added TCP and UDP modes
